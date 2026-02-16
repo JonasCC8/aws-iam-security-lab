@@ -22,4 +22,3 @@ Mejoras de Seguridad Aplicadas
 Lecciones Aprendidas
 La mala configuración de IAM es la vulnerabilidad número uno en la nube.
 
-¿Quieres que te prepare también una versión más formal tipo informe para que lo presentes a tu equipo o como documentación oficial?
