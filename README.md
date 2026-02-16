@@ -19,6 +19,7 @@ Mejoras de Seguridad Aplicadas
 - Eliminación de permisos de AdministratorAccess
 - Aplicación obligatoria de MFA
 - Limitación de acceso a S3 únicamente a un bucket específico
+- 
 Lecciones Aprendidas
 La mala configuración de IAM es la vulnerabilidad número uno en la nube.
 
