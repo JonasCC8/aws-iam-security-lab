@@ -2,7 +2,7 @@
 
 ## 🎥 Video demostración
 
-[![Ver laboratorio en YouTube](images/Portada IAM.png)](https://www.youtube.com/watch?v=K0wKV3ZbkC8)
+[![Ver laboratorio en YouTube](images/PortadaIAM.png)](https://www.youtube.com/watch?v=K0wKV3ZbkC8)
 
 Objetivo
 Configurar usuarios, roles y políticas de IAM de forma segura siguiendo el principio de mínimo privilegio.
